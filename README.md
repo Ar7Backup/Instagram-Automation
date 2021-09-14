@@ -45,3 +45,12 @@ https://www.followinglike.com/
 >![socialsensei](https://github.com/EduardoArtioli/Instagram-Automation/blob/main/_SS/social_sensei.PNG?raw=true)
 [**Gain thousands of real followers on your Instagram account every month.**](https://socialsensei.co/)
 https://socialsensei.co/
+
+## Web Scraping
+Web scraping is **the process of using bots to extract content and data from a website.** Unlike screen scraping, which only copies pixels displayed onscreen, web scraping extracts underlying HTML code and, with it, data stored in a database. The scraper can then replicate entire website content elsewhere.
+
+![web-scraping-attack](https://user-images.githubusercontent.com/14796036/133309354-aa1171f7-d027-456b-a279-3a07c0697f5b.jpg)
+
+>![webscraping](https://miro.medium.com/max/1198/1*TWVrnG72w_bN-AFvIEYagQ.jpeg)
+[**Web Scraping Instagram with Selenium Python**](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4)
+https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4
