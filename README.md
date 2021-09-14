@@ -49,6 +49,9 @@ https://socialsensei.co/
 ## Web Scraping
 Web scraping is **the process of using bots to extract content and data from a website.** Unlike screen scraping, which only copies pixels displayed onscreen, web scraping extracts underlying HTML code and, with it, data stored in a database. The scraper can then replicate entire website content elsewhere.
 
+>Web Scraping Instagram with Selenium ( Python Simplified )
+>https://www.youtube.com/watch?v=iJGvYBH9mcY
+
 ![web-scraping-attack](https://user-images.githubusercontent.com/14796036/133309354-aa1171f7-d027-456b-a279-3a07c0697f5b.jpg)
 
 >![webscraping](https://miro.medium.com/max/1198/1*TWVrnG72w_bN-AFvIEYagQ.jpeg)
