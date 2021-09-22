@@ -57,3 +57,14 @@ Web scraping is **the process of using bots to extract content and data from a w
 >![webscraping](https://miro.medium.com/max/1198/1*TWVrnG72w_bN-AFvIEYagQ.jpeg)
 [**Web Scraping Instagram with Selenium Python**](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4)
 https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4
+
+##
+https://github.com/hendrikbgr/YandexMail-Account-Creator
+![image](https://user-images.githubusercontent.com/14796036/134268087-d1bab88c-3866-4b23-b133-efef481d9311.png)
+##
+https://2captcha.com/
+![image](https://user-images.githubusercontent.com/14796036/134268121-fd9020f1-a0a1-4aae-856a-351a95943639.png)
+##
+https://www.webshare.io/
+![image](https://user-images.githubusercontent.com/14796036/134268176-cea72d87-c0a6-4af2-956d-43206d137de3.png)
+
