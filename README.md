@@ -18,14 +18,15 @@ https://en.wikipedia.org/wiki/Akamai_Technologies
 
 ## Porxys documentation
 ![stupidimage](https://www.stupidproxy.com/wp-content/uploads/2017/02/No-proxy-to-surf-website.png)
-
+##
 ![stupidproxy](https://www.stupidproxy.com/wp-content/uploads/2017/02/How-proxy-works-to-surf-website.png)
 >![StuPidProxy](https://github.com/EduardoArtioli/Instagram-Automation/blob/main/_SS/StuPidProxy.PNG?raw=true)
+>##
 [**ULTIMATE GUIDE TO BUYING INSTAGRAM PROXIES FOR INSTAGRAM AUTOMATION**](https://www.stupidproxy.com/instagram-proxies/) 
 https://www.stupidproxy.com/instagram-proxies/
 > You want [**private proxies**](https://www.stupidproxy.com/dedicated-proxy/)
 
-
+##
 >![proxysp](https://github.com/EduardoArtioli/Instagram-Automation/blob/main/_SS/ProxySP.PNG?raw=true)
 [**8 Best Instagram Proxies in 2021**](https://www.proxysp.com/best-instagram-proxies/)
 >https://www.proxysp.com/best-instagram-proxies/
@@ -37,11 +38,11 @@ Price ideia.
 >![jarvee](https://github.com/EduardoArtioli/Instagram-Automation/blob/main/_SS/jarvee.PNG?raw=true)
 [**JARVEE is doing the work of an entire social media team that ensures your online brand’s success. 24/7 without the lunch breaks.**](https://jarvee.com/)
 https://jarvee.com/
-
+##
 >![followinglike](https://github.com/EduardoArtioli/Instagram-Automation/blob/main/_SS/following_like.PNG?raw=true)
 [**Revolutionary Tools For Social Network Marketing!**](https://www.followinglike.com/)
 https://www.followinglike.com/
-
+##
 >![socialsensei](https://github.com/EduardoArtioli/Instagram-Automation/blob/main/_SS/social_sensei.PNG?raw=true)
 [**Gain thousands of real followers on your Instagram account every month.**](https://socialsensei.co/)
 https://socialsensei.co/
@@ -51,9 +52,9 @@ Web scraping is **the process of using bots to extract content and data from a w
 
 >Web Scraping Instagram with Selenium ( Python Simplified )
 >https://www.youtube.com/watch?v=iJGvYBH9mcY
-
+##
 ![web-scraping-attack](https://user-images.githubusercontent.com/14796036/133309354-aa1171f7-d027-456b-a279-3a07c0697f5b.jpg)
-
+##
 >![webscraping](https://miro.medium.com/max/1198/1*TWVrnG72w_bN-AFvIEYagQ.jpeg)
 [**Web Scraping Instagram with Selenium Python**](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4)
 https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4
