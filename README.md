@@ -3,6 +3,8 @@
 # Instagram Automation
 Compilation of studies about IG automation, proxys, bots, anti-spam, bulk and scrutiny
 
+https://github.com/A812CE795D364414BDEDE8F17E50CD33A7190F8/instagram_account_generator
+
 >![stats](https://github.com/EduardoArtioli/Instagram-Automation/blob/main/_SS/statistics_001.PNG?raw=true)
 [**Instagram by the Numbers: Stats, Demographics & Fun Facts**](https://www.omnicoreagency.com/instagram-statistics/)
 https://www.omnicoreagency.com/instagram-statistics/
