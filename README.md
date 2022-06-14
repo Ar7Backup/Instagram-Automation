@@ -70,4 +70,4 @@ https://2captcha.com/
 ##
 https://www.webshare.io/
 ![image](https://user-images.githubusercontent.com/14796036/134268176-cea72d87-c0a6-4af2-956d-43206d137de3.png)
-,
+.
